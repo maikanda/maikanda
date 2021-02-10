@@ -2,5 +2,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=maikanda&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikanda" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikanda&count_private=true" />
 </a>
